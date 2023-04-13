@@ -1,0 +1,20 @@
+{
+  "name": "2023-04-13-classroom-prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nowkwon97/2023-04-13-classroom-prac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nowkwon97/2023-04-13-classroom-prac/issues"
+  },
+  "homepage": "https://github.com/nowkwon97/2023-04-13-classroom-prac#readme"
+}
